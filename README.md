@@ -1,1 +1,1 @@
-# Dynamic-programming
+# dynamic-programming
